@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/biscoitoSorte/static/css/main.0aa58293.chunk.css",
+    "main.js": "/biscoitoSorte/static/js/main.f9d1e42e.chunk.js",
+    "main.js.map": "/biscoitoSorte/static/js/main.f9d1e42e.chunk.js.map",
+    "runtime-main.js": "/biscoitoSorte/static/js/runtime-main.6797994b.js",
+    "runtime-main.js.map": "/biscoitoSorte/static/js/runtime-main.6797994b.js.map",
+    "static/js/2.fa773770.chunk.js": "/biscoitoSorte/static/js/2.fa773770.chunk.js",
+    "static/js/2.fa773770.chunk.js.map": "/biscoitoSorte/static/js/2.fa773770.chunk.js.map",
+    "index.html": "/biscoitoSorte/index.html",
+    "precache-manifest.95126641972b7123704434fdbaf63975.js": "/biscoitoSorte/precache-manifest.95126641972b7123704434fdbaf63975.js",
+    "service-worker.js": "/biscoitoSorte/service-worker.js",
+    "static/css/main.0aa58293.chunk.css.map": "/biscoitoSorte/static/css/main.0aa58293.chunk.css.map",
+    "static/js/2.fa773770.chunk.js.LICENSE.txt": "/biscoitoSorte/static/js/2.fa773770.chunk.js.LICENSE.txt",
+    "static/media/biscoito.png": "/biscoitoSorte/static/media/biscoito.a2bd231c.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6797994b.js",
+    "static/js/2.fa773770.chunk.js",
+    "static/css/main.0aa58293.chunk.css",
+    "static/js/main.f9d1e42e.chunk.js"
+  ]
+}
